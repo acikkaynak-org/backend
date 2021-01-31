@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     "apps.core.apps.CoreConfig",
     "apps.admin.apps.AdminConfig",
     "apps.api.apps.ApiConfig",
+    "apps.integrations.IntegrationsConfig",
 ]
 
 MIDDLEWARE = [
