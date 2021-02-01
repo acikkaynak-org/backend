@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="snp.png">
+  <img src="aciksozluk.png">
 </p>
 
-Monorepo of sourandperky.com
+Monorepo of aciksozluk.org
